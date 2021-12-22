@@ -1,0 +1,7 @@
+{
+    "app.role": "Front-end Developer",
+    "app.greetings": "Hi, welcome to my page. 👋",
+    "app.content": "I'm a software developer currently based in Belo Horizonte, Brazil.{br}I work as a Frontend Developer at {company}.",
+    "app.resumeButton": "Resume",
+    "app.contactButton": "Contact"
+}
